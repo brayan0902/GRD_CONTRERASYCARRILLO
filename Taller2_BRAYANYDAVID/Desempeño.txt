@@ -1,0 +1,1 @@
+El sistema de control de versiones es una herramienta que ayuda a los desarrolladores a rastraer y gestionar los cambios en el còdigo de software a lo largo del tiempo
